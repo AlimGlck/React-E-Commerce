@@ -1,5 +1,7 @@
 ## REACT E-COMMERCE WEBSITE 
 
+This is my graduation thesis from the Software Engineering Department.
+
 # Front-end 
 1. React
 2. React-Router-Dom
